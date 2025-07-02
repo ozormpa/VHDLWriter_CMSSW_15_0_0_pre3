@@ -2,3 +2,6 @@ test/*.root
 test/*.txt
 test/*.mem
 *.vhd
+Step1ExoticsVhdPatternFiles/
+Step1_10000events_18032025/
+Step1_10000events_20032025/
